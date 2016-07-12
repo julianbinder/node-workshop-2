@@ -1,0 +1,23 @@
+{
+  "name": "jsnode_2",
+  "version": "1.0.0",
+  "description": "\"day 2",
+  "main": "request-as-json.js",
+  "dependencies": {
+    "request": "^2.73.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "git commit -m \"hi\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianbinder/node-workshop-2.git"
+  },
+  "author": "Julian Binder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianbinder/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/julianbinder/node-workshop-2#readme"
+}
